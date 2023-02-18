@@ -1,2 +1,2 @@
-# dotfiles_macos
+# dotfiles
 Personal dot files for macOS
