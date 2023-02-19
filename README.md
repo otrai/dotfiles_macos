@@ -10,3 +10,4 @@ Personal dot files for macOS
 - Trackpad (Three Finger Draf and Tap to Click)
 - .zshrc
 - Git (config and SSH)
+- Homebrew Install
