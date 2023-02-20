@@ -1,3 +1,4 @@
+
 #!/usr/bin/env zsh
 
 echo "\n<<< Starting Homebrew Setup >>>\n"
@@ -7,6 +8,8 @@ echo "\n<<< Starting Homebrew Setup >>>\n"
 brew install httpie
 brew install bat
 
-brew install google-chrome
-brew install visual-studio-code
+brew install --no-quarantine google-chrome
+brew install --no-quarantine visual-studio-code
+brew install --no-quarantine alfred
+
 
