@@ -8,6 +8,4 @@ Personal dot files for macOS
 - Mission Control Preference (don't rearrange spaces)
 - Find Show Path Bar
 - Trackpad (Three Finger Draf and Tap to Click)
-- .zshrc
 - Git (config and SSH)
-- Homebrew Install
