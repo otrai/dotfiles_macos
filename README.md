@@ -9,3 +9,4 @@ Personal dot files for macOS
 - Find Show Path Bar
 - Trackpad (Three Finger Draf and Tap to Click)
 - Git (config and SSH)
+- Alfred (turn off spotlight shortcut and use for Alfred)
