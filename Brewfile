@@ -43,6 +43,8 @@ cask "mindjet-mindmanager"
 cask "obsidian"
 # PDF reader, editor and annotator
 cask "pdf-expert"
+# Screen capture software
+cask "snagit"
 # Web browser focusing on security
 cask "tor-browser"
 # Charting and social-networking for investment traders
@@ -53,3 +55,4 @@ cask "visual-studio-code"
 cask "vmware-fusion"
 # Video communication and virtual meeting platform
 cask "zoom"
+mas "24 Hour Wallpaper", id: 1226087575
