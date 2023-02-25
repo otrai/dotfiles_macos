@@ -12,4 +12,5 @@ Personal dot files for macOS
 - Alfred (turn off spotlight shortcut and use for Alfred)
 - Snagit (turn off cmd+shift+4 for screenshots and use for Snagit)
 - Install Synology Drive and configure folders manually (not available in Homebrew)
+- Turn off auto spelling and capitalization in System Preferences Keyboard->Text
 
