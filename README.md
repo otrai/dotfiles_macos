@@ -7,7 +7,7 @@ Personal dot files for macOS
 - Dock Preferences
 - Mission Control Preference (don't rearrange spaces)
 - Find Show Path Bar
-- Trackpad (Three Finger Draf and Tap to Click)
+- Trackpad (Three Finger Drag and Tap to Click)
 - Git (config and SSH)
 - Alfred (turn off spotlight shortcut and use for Alfred)
 - Snagit (turn off cmd+shift+4 for screenshots and use for Snagit)
