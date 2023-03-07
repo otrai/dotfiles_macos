@@ -3,6 +3,7 @@
 echo "\n<<< Starting Homebrew Setup >>>\n"
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/usr/sbin/softwareupdate --install-rosetta --agree-to-license
 
 # TODO: Keep an eye out for a different '--no-quarantine' solution.
 # Currently, you can't do 'brew bundle --no-quarantine' as an option.
