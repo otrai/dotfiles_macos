@@ -1,3 +1,4 @@
+tap "eth-p/software"
 tap "homebrew/bundle"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
@@ -9,6 +10,8 @@ brew "git"
 brew "httpie"
 # Mac App Store command-line interface
 brew "mas"
+# Bash scripts that integrate bat with various command-line tools
+brew "eth-p/software/bat-extras"
 # Application launcher and productivity software
 cask "alfred"
 # Memory training application
