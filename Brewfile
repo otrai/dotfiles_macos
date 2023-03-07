@@ -54,8 +54,11 @@ cask "pdf-expert"
 cask "protonvpn"
 # Screen capture software
 cask "snagit"
+cask "thinkorswim"
 # Web browser focusing on security
 cask "tor-browser"
+# Trading software
+cask "trader-workstation"
 # Charting and social-networking for investment traders
 cask "tradingview"
 # Open-source code editor
@@ -65,3 +68,4 @@ cask "vmware-fusion"
 # Video communication and virtual meeting platform
 cask "zoom"
 mas "24 Hour Wallpaper", id: 1226087575
+mas "Rosetta Stone", id: 1476088902
