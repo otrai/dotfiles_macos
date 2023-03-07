@@ -30,6 +30,10 @@ cask "firefox"
 cask "gitkraken"
 # Web browser
 cask "google-chrome"
+# Virtual globe
+cask "google-earth-pro"
+# JetBrains tools manager
+cask "jetbrains-toolbox"
 # Password manager app
 cask "keepassxc"
 # Interface for reading and syncing eBooks
@@ -46,6 +50,8 @@ cask "mindjet-mindmanager"
 cask "obsidian"
 # PDF reader, editor and annotator
 cask "pdf-expert"
+# VPN client focusing on security
+cask "protonvpn"
 # Screen capture software
 cask "snagit"
 # Web browser focusing on security
