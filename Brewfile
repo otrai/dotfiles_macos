@@ -32,6 +32,8 @@ cask "gitkraken"
 cask "google-chrome"
 # Virtual globe
 cask "google-earth-pro"
+# Mind mapping tool
+cask "ithoughtsx"
 # JetBrains tools manager
 cask "jetbrains-toolbox"
 # Password manager app
